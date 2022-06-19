@@ -1,0 +1,9 @@
+arroz;16;Alimentos;95;22.0;tio jorge
+Pera;1;Alimentos;29;12.0;Jaó
+Vestido Branco;2;Roupas;85;50.0;Polo
+Desodorante;9849204;Limpeza;79;15.0;rexona
+Maça;3;Alimentos;59;5.0;Cristal
+Bucha;4;Limpeza;75;5.0;Bombril
+macarrão;9258;Alimentos;135;5.0;joelma
+borracha;13;Limpeza;125;1.0;faber
+melao;15;Alimentos;69;15.0;Amarelo

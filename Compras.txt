@@ -1,0 +1,18 @@
+xico;0;16;1;20.5;arroz;tio jorge;Alimentos;
+xico;1;9849204;1;15.0;Desodorante;rexona;Limpeza;3;1;5.0;Maça;Cristal;Alimentos;
+xico;2;9849204;1;15.0;Desodorante;rexona;Limpeza;3;1;5.0;Maça;Cristal;Alimentos;
+xico;3;9258;1;3.5;macarrão;joelma;Alimentos;
+xico;4;1;1;10.0;Pera;Jaó;Alimentos;16;1;20.5;arroz;tio jorge;Alimentos;9258;1;3.5;macarrão;joelma;Alimentos;
+matheus;5;9258;3;3.5;macarrão;joelma;Alimentos;
+xico;6;9258;5;3.5;macarrão;joelma;Alimentos;
+leonel;7;16;1;20.5;arroz;tio jorge;Alimentos;9258;10;3.5;macarrão;joelma;Alimentos;
+xico;8;9258;1;3.5;macarrão;joelma;Alimentos;
+xico;9;9258;9;3.5;macarrão;joelma;Alimentos;
+aa;10;1;5;10.0;Pera;Jaó;Alimentos;
+aa;11;16;1;22.0;arroz;tio jorge;Alimentos;3;1;5.0;Maça;Cristal;Alimentos;4;1;5.0;Bucha;Bombril;Limpeza;15;1;15.0;melao;Amarelo;Alimentos;9849204;1;15.0;Desodorante;rexona;Limpeza;2;1;50.0;Vestido Branco;Polo;Roupas;13;1;1.0;borracha;faber;Limpeza;9258;1;3.5;macarrão;joelma;Alimentos;1;1;12.0;Pera;Jaó;Alimentos;
+aa;12;1;1;12.0;Pera;Jaó;Alimentos;3;1;5.0;Maça;Cristal;Alimentos;9258;1;3.5;macarrão;joelma;Alimentos;13;1;1.0;borracha;faber;Limpeza;4;1;5.0;Bucha;Bombril;Limpeza;2;1;50.0;Vestido Branco;Polo;Roupas;16;1;22.0;arroz;tio jorge;Alimentos;15;1;15.0;melao;Amarelo;Alimentos;9849204;1;15.0;Desodorante;rexona;Limpeza;
+xico;13;9258;1;3.5;macarrão;joelma;Alimentos;
+xico;14;2;1;50.0;Vestido Branco;Polo;Roupas;
+aa;15;9258;3;3.5;macarrão;joelma;Alimentos;
+matheus;16;4;4;5.0;Bucha;Bombril;Limpeza;
+xico;17;16;4;22.0;arroz;tio jorge;Alimentos;2;3;50.0;Vestido Branco;Polo;Roupas;13;4;1.0;borracha;faber;Limpeza;
